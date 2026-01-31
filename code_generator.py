@@ -154,7 +154,7 @@ class ModelToJavaGenerator:
                 source_entity.fields.append(field)
                 print(f"Field: {source_entity.name}.{field_name} : {field_type}")
     
-    def turn_into_camelCase(self, text: str) -> str:
+    def to_camel_case(self, text: str) -> str:
         """turns text into camelCase"""
         text = text.replace('_', ' ').replace('-', ' ') #turn underscores and hyphens into spaces
         words = text.split() #split into words

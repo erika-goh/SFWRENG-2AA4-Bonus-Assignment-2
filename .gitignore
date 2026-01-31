@@ -1,0 +1,9 @@
+# Generated artifacts
+examples/default/src-gen/
+
+# Python
+__pycache__/
+*.pyc
+
+# Draw.io
+*.drawio
