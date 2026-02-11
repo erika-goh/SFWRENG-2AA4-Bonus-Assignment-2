@@ -1,5 +1,7 @@
 # Assignment checklist
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=erika-goh_SFWRENG-2AA4-Bonus-Assignment-2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=erika-goh_SFWRENG-2AA4-Bonus-Assignment-2)
+
 ## Technical content
 - [x] Every task in the assignment addressed
 
