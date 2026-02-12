@@ -3,7 +3,6 @@
 # SFWRENG 2AA4 – Bonus Assignment 2
 
 ## Project Information
-- **Kanban Board:** [Insert Link Here]
 
 ## Authors
 - Erika Goh  
