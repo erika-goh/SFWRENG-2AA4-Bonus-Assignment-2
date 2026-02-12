@@ -1,29 +1,4 @@
-# Assignment checklist
-
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=erika-goh_SFWRENG-2AA4-Bonus-Assignment-2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=erika-goh_SFWRENG-2AA4-Bonus-Assignment-2)
-
-## Technical content
-- [x] Every task in the assignment addressed
-
-## Delivery
-
-### Software
-- [x] Requirements addressed
-- [x] Software properly tested
-- [x] Demonstrator implemented and documented
-
-### Management
-- [x] SonarQube analysis linked in the README file
-- [x] Kanban board maintained and publicly available
-- [x] Commits linked to work items
-- [x] Deliverable tagged
-
-### Report
-- [x] Reflection points elaborated
-- [x] Report written
-- [x] Report submitted
-
----
 
 # SFWRENG 2AA4 – Bonus Assignment 2
 
