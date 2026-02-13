@@ -3,6 +3,7 @@
 # SFWRENG 2AA4 – Bonus Assignment 2
 
 ## Project Information
+Code generator for class diagram models.
 
 ## Authors
 - Erika Goh  
